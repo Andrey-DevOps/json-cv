@@ -1,0 +1,244 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Andrey Yurevich",
+    "label": "Senior DevOps Engineer",
+    "image": "file:///home/ubuntu/cv/avatar.png",
+    "email": "yurevich.andrey@icloud.com",
+    "phone": "+48571287073",
+    "url": "",
+    "summary": ".",
+    "location": {
+      "countryCode": "Poland",
+      "address": "Lodz"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "yurevich1",
+        "url": "https://www.linkedin.com/in/yurevich1/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Soname Solutions",
+      "position": "Senior DevOps Engineer",
+      "startDate": "2022-04-07",
+      "endDate": "2023-06-24",
+      "highlights": [],
+      "summary": "test",
+      "url": "https://www.linkedin.com/company/67114288",
+      "location": "Lodz, Poland"
+    },
+    {
+      "name": "Elinext",
+      "position": "Senior DevOps engineer",
+      "startDate": "2019-07-31",
+      "endDate": "2022-04-30",
+      "highlights": [],
+      "summary": "test",
+      "url": "https://www.linkedin.com/company/2483832",
+      "location": "Minsk, Belarus"
+    },
+    {
+      "name": "EPAM Systems",
+      "position": "DevOps Engineer",
+      "startDate": "2018-12-31",
+      "endDate": "2019-07-31",
+      "highlights": [],
+      "summary": "test",
+      "url": "https://www.linkedin.com/company/4972",
+      "location": "Mahilyow, Belarus"
+    },
+    {
+      "name": "Scand",
+      "position": "Junior DevOps engineer",
+      "startDate": "2018-06-30",
+      "endDate": "2018-10-31",
+      "highlights": [],
+      "summary": "test",
+      "url": "https://www.linkedin.com/company/50012",
+      "location": "Minsk, Belarus"
+    }
+  ],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "DevOps training",
+      "issuer": "EPAM Systems",
+      "startDate": "2019-03-31",
+      "date": "2019-03-31"
+    },
+    {
+      "name": "Professional Cloud Architect",
+      "issuer": "Google",
+      "endDate": "2021-11-30",
+      "startDate": "2019-11-30",
+      "date": "2019-11-30",
+      "url": "https://www.credential.net/e0dc1817-7066-43a6-870c-e176bf408311"
+    },
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuer": "CNCF [Cloud Native Computing Foundation]",
+      "endDate": "2023-07-31",
+      "startDate": "2020-07-31",
+      "date": "2020-07-31",
+      "url": "https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/d829bc9f-808f-5dbb-85a8-ab2b97642755-andrei-yurevich-certified-kubernetes-administrator-cka-certificate.pdf"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GitOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure as code",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GNU/Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CI/CD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Argocd",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Stackdriver",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Dynatrace",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Nginx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bash",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Grafana",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vagrant ",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gitlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Regular Expressions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bitbucket",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Helm",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bamboo",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Upper-Intermediate"
+    },
+    {
+      "language": "Belarusian",
+      "fluency": "Native"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Free to understand"
+    }
+  ],
+  "interests": [],
+  "references": [{
+    "name": "Mikita Petukhou (data engineer)",
+    "reference": "Andrei showed a proactive attitude to all questions and tasks we had for DevOps related topic. Important point is that Andrei is helping to establish a better separation of responsibilities and collaboration between Dev and DevOps teams. He handled effectively the communication with project stakeholders.\ngreat thank you for your readiness to assist! With your patience and professionalism we are finding best solutions!I do highly appreciate your extra-mile effort with helping in tasks you are not even assigned on."
+  },
+  {
+    "name": "Aryna Yukhnevich (data engineer)",
+    "reference": "I really appreciate Andrei's support on DevOps tasks. Thank you for your constant help, even in your day off:)"
+  }
+  ],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
