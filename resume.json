@@ -4,10 +4,11 @@
     "name": "Andrey Yurevich",
     "label": "Senior DevOps Engineer",
     "image": "https://raw.githubusercontent.com/Andrey-DevOps/json-cv/main/avatar.png",
+    "picture": "https://raw.githubusercontent.com/Andrey-DevOps/json-cv/main/avatar.png",
     "email": "yurevich.andrey@icloud.com",
     "phone": "+48571287073",
     "url": "",
-    "summary": ".",
+    "summary": "I am DevOps engineer with almost 5 years expierence in a wide variaty of projects. Working primarely in outsourcing companies I've got experiance across the following domains: healthcare, insurance, banking, education, travelling and agroculture. In my work I use modern and time-tested tools to provide fresh and reliable systems. For most project I use KISS approach to provide transparent and to maintain systems easily.",
     "location": {
       "countryCode": "Poland",
       "address": "Lodz"
@@ -27,7 +28,7 @@
       "startDate": "2022-04-07",
       "endDate": "2023-06-24",
       "highlights": [],
-      "summary": "test",
+      "summary": "Soname Solutions is a company located in Germany which provides data engineering service for large companies. I have worked with Allianz company in data analytics department and have involved in setting up logging and monitoring for the organization entities in France, Germany, Australia, Ireland, Italy, Spain, Portugal, UK and Asia.",
       "url": "https://www.linkedin.com/company/67114288",
       "location": "Lodz, Poland"
     },
