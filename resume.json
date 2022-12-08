@@ -3,7 +3,7 @@
   "basics": {
     "name": "Andrey Yurevich",
     "label": "Senior DevOps Engineer",
-    "image": "file:///home/ubuntu/cv/avatar.png",
+    "image": "https://raw.githubusercontent.com/Andrey-DevOps/json-cv/main/avatar.png",
     "email": "yurevich.andrey@icloud.com",
     "phone": "+48571287073",
     "url": "",
