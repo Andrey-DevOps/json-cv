@@ -1,14 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Andrey Yurevich",
+    "name": "Andrei Yurevich",
     "label": "Senior DevOps Engineer",
     "image": "https://raw.githubusercontent.com/Andrey-DevOps/json-cv/main/avatar.png",
     "picture": "https://raw.githubusercontent.com/Andrey-DevOps/json-cv/main/avatar.png",
-    "email": "yurevich.andrey@icloud.com",
+    "email": "andrei@yurevich.tech",
     "phone": "+48571287073",
     "url": "",
-    "summary": "I am DevOps engineer with almost 5 years expierence in a wide variaty of projects. Working primarely in outsourcing companies I've got experiance across the following domains: healthcare, insurance, banking, education, travelling and agroculture. In my work I use modern and time-tested tools to provide fresh and reliable systems. For most project I use KISS approach to provide transparent and to maintain systems easily.",
+    "summary": "I am a DevOps engineer with almost 5 years of experience in a wide variety of projects. Working primarily in outsourcing companies, I've gained experience across the following domains: healthcare, insurance, banking, education, travel, and agriculture. In my work, I use modern and time-tested tools to provide robust and reliable systems. For most projects, I use the KISS approach to ensure systems are transparent and easy to maintain.",
     "location": {
       "countryCode": "Poland",
       "address": "Lodz"
@@ -28,7 +28,7 @@
       "startDate": "2022-04-07",
       "endDate": "2023-06-24",
       "highlights": [],
-      "summary": "Soname Solutions is a company located in Germany which provides data engineering service for large companies. I have worked with Allianz company in data analytics department and have involved in setting up logging and monitoring for the organization entities in France, Germany, Australia, Ireland, Italy, Spain, Portugal, UK and Asia.",
+      "summary": "Soname Solutions is a company based in Germany, specializing in data engineering for large enterprises. I'm part of the analytics department, where my primary role involves developing cloud architecture for a global data warehouse. The infrastructure I'm working on is deployed across various regions including France, Germany, Australia, Ireland, Italy, Spain, Portugal, and the UK",
       "url": "https://www.linkedin.com/company/67114288",
       "location": "Lodz, Poland"
     },
@@ -38,7 +38,7 @@
       "startDate": "2019-07-31",
       "endDate": "2022-04-30",
       "highlights": [],
-      "summary": "test",
+      "summary": "Elinext is an outsourcing company from Belarus with offices in the Czech Republic, Poland, and Vietnam. During my tenure at the company, I have had the opportunity to work on over 10 projects with varying technical stacks and across diverse domains such as banking, blockchain, streaming, agriculture, mobile development, healthcare, and education.",
       "url": "https://www.linkedin.com/company/2483832",
       "location": "Minsk, Belarus"
     },
@@ -48,7 +48,7 @@
       "startDate": "2018-12-31",
       "endDate": "2019-07-31",
       "highlights": [],
-      "summary": "test",
+      "summary": "As a DevOps engineer, I was responsible for developing and managing robust CI/CD pipelines and using technologies such as Docker, Kubernetes, AWS, Terraform, and Ansible to create efficient infrastructures tailored to client needs. I worked collaboratively with various teams to ensure optimal system performance and maximum uptime. Over my tenure, I was involved in numerous diverse projects, which enhanced my problem-solving skills and understanding of DevOps practices in various business contexts.",
       "url": "https://www.linkedin.com/company/4972",
       "location": "Mahilyow, Belarus"
     },
@@ -58,7 +58,7 @@
       "startDate": "2018-06-30",
       "endDate": "2018-10-31",
       "highlights": [],
-      "summary": "test",
+      "summary": "I worked on a large-scale B2B project involving two e-commerce production lines. The production environment included various technologies such as Tomcat, NodeJS, Apache Solr, and Jetty applications. In this role, my responsibilities included deploying the e-commerce product lines onto client servers, implementing Ansible playbooks for automated configuration management, writing Bash and Python scripts to automate tasks and enhance operational efficiency, and supporting MySQL databases to ensure their performance, availability, and security.",
       "url": "https://www.linkedin.com/company/50012",
       "location": "Minsk, Belarus"
     }
@@ -67,12 +67,6 @@
   "education": [],
   "awards": [],
   "certificates": [
-    {
-      "name": "DevOps training",
-      "issuer": "EPAM Systems",
-      "startDate": "2019-03-31",
-      "date": "2019-03-31"
-    },
     {
       "name": "Professional Cloud Architect",
       "issuer": "Google",
@@ -98,12 +92,17 @@
       "keywords": []
     },
     {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Microsoft Azure",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Azure DevOps",
+      "name": "Google Cloud Platform",
       "level": "",
       "keywords": []
     },
@@ -113,52 +112,12 @@
       "keywords": []
     },
     {
-      "name": "Jenkins",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Terraform",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Infrastructure as code",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "GNU/Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CI/CD",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Argocd",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Amazon Web Services (AWS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Google Stackdriver",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Dynatrace",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Docker",
+      "name": "Python programming",
       "level": "",
       "keywords": []
     },
@@ -168,12 +127,42 @@
       "keywords": []
     },
     {
+      "name": "CI/CD Platforms",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Logging",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Monitoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
       "name": "Bash",
       "level": "",
       "keywords": []
     },
     {
-      "name": "Grafana",
+      "name": "Ansible",
       "level": "",
       "keywords": []
     },
@@ -183,32 +172,7 @@
       "keywords": []
     },
     {
-      "name": "Google Cloud Platform (GCP)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Gitlab",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Regular Expressions",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bitbucket",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Helm",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bamboo",
       "level": "",
       "keywords": []
     }
@@ -229,11 +193,11 @@
   ],
   "interests": [],
   "references": [{
-    "name": "Mikita Petukhou (data engineer)",
+    "name": "Mikita Petukhou (Mikita Petukhou, Core Team Lead Data Engineer)",
     "reference": "Andrei showed a proactive attitude to all questions and tasks we had for DevOps related topic. Important point is that Andrei is helping to establish a better separation of responsibilities and collaboration between Dev and DevOps teams. He handled effectively the communication with project stakeholders.\ngreat thank you for your readiness to assist! With your patience and professionalism we are finding best solutions!I do highly appreciate your extra-mile effort with helping in tasks you are not even assigned on."
   },
   {
-    "name": "Aryna Yukhnevich (data engineer)",
+    "name": "Aryna Yukhnevich (Mikita Petukhou, Core Team Data Engineer)",
     "reference": "I really appreciate Andrei's support on DevOps tasks. Thank you for your constant help, even in your day off:)"
   }
   ],
